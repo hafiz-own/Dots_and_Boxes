@@ -35,10 +35,11 @@ Welcome to **Dots and Boxes**, a modern Python implementation of the timeless pe
 
 ### Option 1: Standalone Linux Binary
 
+Download the release from github release section.
 ```bash
-cd dist
-chmod +x DotsAndBoxes
-./DotsAndBoxes
+cd Downloads/
+chmod +x main
+./main
 ```
 
 >  No Python or installation needed.
@@ -152,6 +153,6 @@ GitHub: [@Hafiz-Own](https://github.com/hafiz-own)
 Want to improve the AI? Add multiplayer over network? Improve UI?
 We welcome contributions — just fork the repo and submit a pull request!
 
-Feel free to fork, modify, and contribute! Suggestions and PRs are always welcome.
+> Feel free to fork, modify, and contribute! Suggestions and PRs are always welcome.
 
 > 🚀 *Enjoy playing Dots and Boxes as much as I enjoyed building it!*
