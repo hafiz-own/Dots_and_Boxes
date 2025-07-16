@@ -51,7 +51,7 @@ chmod +x main
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/hafiz_own/DotsAndBoxes.git
+git clone https://github.com/hafiz-own/DotsAndBoxes.git
 cd DotsAndBoxes
 ```
 
