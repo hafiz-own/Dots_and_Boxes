@@ -146,7 +146,7 @@ DotsAndBoxes/
 ## 🙋 Author
 
 **Own Mustafvi**
-GitHub: [@Hafiz-Own](https://github.com/hafiz_own)
+GitHub: [@Hafiz-Own](https://github.com/hafiz-own)
 
 ---
 
