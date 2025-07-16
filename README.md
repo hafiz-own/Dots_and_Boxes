@@ -149,5 +149,9 @@ DotsAndBoxes/
 GitHub: [@Hafiz-Own](https://github.com/hafiz-own)
 
 ---
+Want to improve the AI? Add multiplayer over network? Improve UI?
+We welcome contributions — just fork the repo and submit a pull request!
+
+Feel free to fork, modify, and contribute! Suggestions and PRs are always welcome.
 
 > 🚀 *Enjoy playing Dots and Boxes as much as I enjoyed building it!*
