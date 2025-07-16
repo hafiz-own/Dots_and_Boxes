@@ -1,17 +1,17 @@
-# 🎮 Dots and Boxes — A Classic Puzzle Reimagined in Python
+# Dots and Boxes — A Classic Puzzle Reimagined in Python
 
 Welcome to **Dots and Boxes**, a modern Python implementation of the timeless pencil-and-paper game. With smooth animations, intuitive GUI, multiple difficulty levels, and sound effects, this game brings childhood nostalgia back to life in a fresh digital form. 
 ---
 
-## ✨ Features
+##  Features
 
-* 🖌️ **Two Game Modes:** 1-Player vs AI or 2-Player Local Multiplayer
-* 💡 **AI Difficulty Levels:** Beginner & Advanced
-* 🎲 **Three Grid Sizes:** Easy (6x6), Medium (10x10), Hard (15x15)
-* 🎉 **Polished GUI:** Animations, transitions, hover effects, and styled UI
-* 🔊 **Immersive Audio:** Background music and responsive sound effects
-* 📅 **Fully Offline:** No internet needed after setup
-* 🛠️ **Optimized for Linux** with standalone binary support
+*  **Two Game Modes:** 1-Player vs AI or 2-Player Local Multiplayer
+*  **AI Difficulty Levels:** Beginner & Advanced
+*  **Three Grid Sizes:** Easy (6x6), Medium (10x10), Hard (15x15)
+*  **Polished GUI:** Animations, transitions, hover effects, and styled UI
+*  **Immersive Audio:** Background music and responsive sound effects
+*  **Fully Offline:** No internet needed after setup
+*  **Optimized for Linux** with standalone binary support
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to **Dots and Boxes**, a modern Python implementation of the timeless pe
 
 ---
 
-## 🚀 Run the Game
+##  Run the Game
 
 ### Option 1: Standalone Linux Binary
 
@@ -41,7 +41,7 @@ chmod +x DotsAndBoxes
 ./DotsAndBoxes
 ```
 
-> ✅ No Python or installation needed.
+>  No Python or installation needed.
 
 ---
 
@@ -86,7 +86,7 @@ pyinstaller --onefile --windowed --add-data="assets:assets" main.py
 
 ---
 
-## 👍 Running on Windows
+##  Running on Windows
 
 1. Install Python and Pygame
 2. Clone or copy the project folder
@@ -104,12 +104,11 @@ pyinstaller --onefile --windowed --add-data="assets;assets" main.py
 
 ---
 
-## 🧠 AI Strategy
+##  AI Strategy
 
-* ✅ Completes available boxes
-* ❌ Avoids risky 3-sided box traps
-* ♻️ Simulates chain reactions to minimize losses
-* 🧡 Uses Minimax in advanced mode for smart decision-making
+*  Completes available boxes
+*  Avoids risky 3-sided box traps
+*  Simulates chain reactions to minimize losses
 
 ---
 
