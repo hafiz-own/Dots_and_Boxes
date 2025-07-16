@@ -19,7 +19,7 @@ Welcome to **Dots and Boxes**, a modern Python implementation of the timeless pe
 
 ### Game Setup Screen
 
-![Setup Screen](screenshots/setup_screen.png)
+![Setup Screen](screenshots/setupscreen.png)
 
 ### Gameplay in Action
 
