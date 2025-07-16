@@ -11,11 +11,10 @@ from game.constants import WINDOW_WIDTH, WINDOW_HEIGHT, SIDEBAR_WIDTH, GAME_WIDT
 # TODO / ISSUES
 '''
     -> AI-difficult moves mending
-    -> Code refining and understanding
-    -> application packaging (.exe, .bin)
+    -> Code refining
+    -> application packaging (.exe, .bin, .deb)
 '''
 # loading assests with proper path for proper packaging
-import os
 from pathlib import Path
 
 
