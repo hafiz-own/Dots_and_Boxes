@@ -145,8 +145,8 @@ DotsAndBoxes/
 
 ## 🙋 Author
 
-**Your Name**
-GitHub: [@hafiz_own](https://github.com/hafiz_own)
+**Own Mustafvi**
+GitHub: [@Hafiz-Own](https://github.com/hafiz_own)
 
 ---
 
