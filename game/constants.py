@@ -1,16 +1,16 @@
 # === Game Configuration Constants ===
 GRID_ROWS = 6  # Number of rows of dots
 GRID_COLS = 6  # Number of columns of dots
-DOT_RADIUS = 6 # Radius of the dots
-LINE_WIDTH = 4 # Thickness of the lines
+DOT_RADIUS = 6  # Radius of the dots
+LINE_WIDTH = 4  # Thickness of the lines
 
 # === Color Palette ===
-COLOR_BACKGROUND = (240, 240, 240)   # Light grey for background
-COLOR_DOT = (100, 100, 100)         # Darker grey for dots
-COLOR_LINE = (70, 130, 180)         # Steel blue for lines
-COLOR_HIGHLIGHT = (255, 165, 0)     # Orange for highlighted lines
-COLOR_PLAYER1 = (255, 99, 71)       # Tomato for Player 1
-COLOR_PLAYER2 = (60, 179, 113)      # Medium sea green for Player 2
+COLOR_BACKGROUND = (240, 240, 240)  # Light grey for background
+COLOR_DOT = (100, 100, 100)  # Darker grey for dots
+COLOR_LINE = (70, 130, 180)  # Steel blue for lines
+COLOR_HIGHLIGHT = (255, 165, 0)  # Orange for highlighted lines
+COLOR_PLAYER1 = (210, 106, 210)  # Tomato for Player 1
+COLOR_PLAYER2 = (247, 137, 39)  # Medium sea green for Player 2
 
 # === UI Dimensions ===
 WINDOW_WIDTH = 1024
@@ -19,7 +19,7 @@ SIDEBAR_WIDTH = 250
 GAME_WIDTH = WINDOW_WIDTH - SIDEBAR_WIDTH
 
 # === Animation/Timing ===
-CAT_FRAME_DELAY = 10 # Delay between cat animation frames
+CAT_FRAME_DELAY = 10  # Delay between cat animation frames
 
 # === Particle Effects ===
 PARTICLE_NUM_LINE = 10
